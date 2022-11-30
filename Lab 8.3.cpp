@@ -1,7 +1,7 @@
 // This program uses a bubble sort to arrange an array of integers in
 // ascending order
 // 
-// Julian Sorto 
+// YOUR NAME HERE
 #include <iostream>
 using namespace std;
 // function prototypes
